@@ -20,19 +20,9 @@
 菜单光标移动: 方向键/手柄方向键<br/>
 退出游戏: 长按ESC键
 
-alpha_0.1.0.20240829版本更新内容:<br/>
-·地图优化<br/>
-·新增可拾取物品<br/>
-·添加了游戏物品菜单<br/>
-·耕地系统(未完善)
-
-更新计划:<br/>
-·完善耕地系统<br/>
-·完善菜单内的各项功能<br/>
-·完善地图内各物件的功能<br/>
-·新增SF向的故事剧情<br/>
-
-
+[最新版本更新内容](update_log/latest_version.md)<br/>
+[更新计划](update_log/update_plan.md)<br/>
+[历史版本更新内容](update_log/old_version.md)<br/>
 
 游戏展示视频(来源BiliBili):<br/>
 [![](https://i0.hdslb.com/bfs/archive/6755effa0d126eb43aa9a166937cc5a5f43b15bd.jpg@500w_300h)](https://www.bilibili.com/video/BV1TeHNerEUi)
