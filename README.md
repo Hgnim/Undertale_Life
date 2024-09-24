@@ -18,7 +18,7 @@
 菜单: C/CTRL/手柄Y<br/>
 使用手中的物品: V/'\\'/手柄A<br/>
 菜单光标移动: 方向键/手柄方向键<br/>
-退出游戏: 长按ESC键
+退出游戏: 长按ESC键/手柄菜单键
 
 [最新版本更新内容](update_log/latest_version.md)<br/>
 [更新计划](update_log/update_plan.md)<br/>
