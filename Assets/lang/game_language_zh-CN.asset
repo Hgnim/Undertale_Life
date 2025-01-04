@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: game_language_zh-CN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-CN
+  m_SharedData: {fileID: 11400000, guid: c628e8b9910beb9438e314433f0ebe7e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 163171930112
+    m_Localized: "\u6309Z\u5F00\u59CB\u6E38\u620F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32804327788544
+    m_Localized: "\u8FD9\u662F\u4F60\u7684\u5E8A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34518183317504
+    m_Localized: "\u8FD9\u662F\u4E00\u4E2A\u5C0F\u7BB1\u5B50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 810667129835520
+    m_Localized: "(\u4F60\u627E\u5230\u4E86\u4E00\u5F20\u5F00\u53D1\u4EBA\u5458\u7559\u4E0B\u7684\u4E00\u5F20\u7EB8\u6761)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811076795895808
+    m_Localized: "\u73A9\u5BB6\uFF0C\u4F60\u597D\u3002\u4F60\u5F53\u524D\u6E38\u73A9\u7684\u662FUndertale:Life\u7684\u6F14\u793Ademo\u7248\uFF0C\u5E76\u4E0D\u5305\u542B\u4EFB\u4F55\u5B9E\u9645\u5185\u5BB9\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 813999055572992
+    m_Localized: "Undertale:Life\u662F\u7531Hgnim\u5236\u4F5C\u7684Undertale\u540C\u4EBA\u6E38\u620F\uFF0C\u5F15\u7528\u4E86Undertale\u548CDeltarune\u7684\u6E38\u620F\u5185\u5BB9\u3002\u4E25\u7981\u5C06\u672C\u6E38\u620F\u7528\u4E8E\u5546\u4E1A\u7528\u9014\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814644168888320
+    m_Localized: "Undertale:Life\u5C06\u4F1A\u5728\u65B0\u7684\u5192\u9669\u6545\u4E8B\u4E2D\u52A0\u5165\u90E8\u5206\u65E5\u5E38\u548C\u751F\u5B58\u5185\u5BB9\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 815810994900992
+    m_Localized: "\u8BE5\u540C\u4EBA\u6E38\u620F\u662F\u4EE5Frisk\u4E3A\u64CD\u63A7\u5BF9\u8C61\uFF0C\u4ECE\u5B8C\u7F8E\u7ED3\u5C40\u540E\u5F00\u59CB\u7684\u6545\u4E8B\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816561267806208
+    m_Localized: "\u5982\u679C\u4F60\u62E5\u6709\u6709\u8DA3\u7684\u5192\u9669\u6545\u4E8B\u548C\u65B0\u9896\u7684\u6E38\u620F\u73A9\u6CD5\uFF0C\u6B22\u8FCE\u5728Github\u4E2D\u63D0\u51FA\u8BAE\u9898\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817138605363200
+    m_Localized: "Undertale:Life Github\u94FE\u63A5: https://github.com/Hgnim/Undertale_Life"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 834593910296576
+    m_Localized: "\u540C\u4EBA\u6E38\u620F\u4F5C\u8005: Hgnim\n\u7248\u672C: alpha_0.2.0.20240901\n\u6B64\u6E38\u620F\u4E3AUndertale\u7684\u540C\u4EBA\u6E38\u620F\n\u5F15\u7528\u4E86Undertale\u548CDeltarune\u7684\u6E38\u620F\u5185\u5BB9\n\u6B64\u6E38\u620F\u6C38\u8FDC\u514D\u8D39\u63D0\u4F9B\uFF0C\u4E25\u7981\u7528\u4E8E\u5546\u4E1A\u7528\u9014\uFF01\n\u5F53\u524D\u7248\u672C\u4E3A\u9884\u89C8\u7248\uFF0C\u6CA1\u6709\u5B9E\u9645\u7684\u6E38\u620F\u5185\u5BB9\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478142773268480
+    m_Localized: "\u9504\u5934"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478293860487168
+    m_Localized: "\u4F60\u6361\u8D77\u4E86 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497692201914368
+    m_Localized: "\u4E00\u5305\u5C0F\u9EA6\u79CD\u5B50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6541678509690880
+    m_Localized: "\u4E00\u628A\u53EF\u4EE5\u8015\u5730\u7684\u9504\u5934"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6542021096247296
+    m_Localized: "\u6EE1\u6EE1\u4E00\u5305\u7684\u5C0F\u9EA6\u79CD\u5B50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557843595956224
+    m_Localized: "\u4F60\u7684\u7269\u54C1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557820846051328
+    m_Localized: "\u4E22\u5F03"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557693880274944
+    m_Localized: "\u4F7F\u7528"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7702839477276672
+    m_Localized: "\u5915\u9633\u4E4B\u4E0B\uFF0C\u4E00\u4E2A\u4EBA\u7C7B\u548C\u602A\u7269\u4EEC\u91CD\u8FD4\u5730\u9762\u4E4B\u4E0A\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7709447326404608
+    m_Localized: "\u602A\u7269\u4EEC\u5B89\u5C45\u4E50\u4E1A\uFF0C\u5728\u5730\u9762\u4E0A\u5F00\u59CB\u4E86\u4ED6\u4EEC\u7684\u65B0\u751F\u6D3B\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7709997786861568
+    m_Localized: "\u6570\u5E74\u540E...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7710156293804032
+    m_Localized: "Frisk\u8E0F\u4E0A\u4E86\u65B0\u7684\u5F81\u7A0B\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9086925617893376
+    m_Localized: Hgnim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101598127951872
+    m_Localized: "\u62E8\u53F7\u4E2D..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101857868615680
+    m_Localized: "\u6EF4..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9102270655238144
+    m_Localized: "\u53EE\u94C3..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16349351199510528
+    m_Localized: "\u8C03\u8BD5\u4EBA\u5076\u6B63\u9762\u5BF9\u7740\u4F60"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17682192877359104
+    m_Localized: "\u8C03\u8BD5\u4EBA\u5076\u9762\u4E0D\u6539\u8272\u7684\u770B\u7740\u4F60"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17682532049752064
+    m_Localized: "\u8C03\u8BD5\u4EBA\u5076\u7EB9\u4E1D\u4E0D\u52A8"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

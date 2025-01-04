@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: game_language Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: game_language
+  m_TableCollectionNameGuidString: c628e8b9910beb9438e314433f0ebe7e
+  m_Entries:
+  - m_Id: 163171930112
+    m_Key: MainMenu_StartGameButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32804327788544
+    m_Key: message_bedroom_bed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34518183317504
+    m_Key: message_bedroom_box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 810667129835520
+    m_Key: message_author_s_paper_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811076795895808
+    m_Key: message_author_s_paper_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 813999055572992
+    m_Key: message_author_s_paper_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814644168888320
+    m_Key: message_author_s_paper_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 815810994900992
+    m_Key: message_author_s_paper_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816561267806208
+    m_Key: message_author_s_paper_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817138605363200
+    m_Key: message_author_s_paper_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 834593910296576
+    m_Key: MainMenu_game_about
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478142773268480
+    m_Key: object_name_hoe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478293860487168
+    m_Key: message_object_picked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497692201914368
+    m_Key: object_name_wheatSeedBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6541678509690880
+    m_Key: object_name_hoe_note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6542021096247296
+    m_Key: object_name_wheatSeedBag_note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557693880274944
+    m_Key: ui_cMenu_InfoBox_objectUI_use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557820846051328
+    m_Key: ui_cMenu_InfoBox_objectUI_discard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7557843595956224
+    m_Key: ui_cMenu_InfoBox_objectUI_note_def
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7702839477276672
+    m_Key: MainMenu_StartGameShowsStory_text1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7709447326404608
+    m_Key: MainMenu_StartGameShowsStory_text2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7709997786861568
+    m_Key: MainMenu_StartGameShowsStory_text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7710156293804032
+    m_Key: MainMenu_StartGameShowsStory_text4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9086925617893376
+    m_Key: message_phone_Hgnim_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101598127951872
+    m_Key: message_phone_key_call
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101857868615680
+    m_Key: message_phone_key_over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9102270655238144
+    m_Key: message_phone_key_ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16349351199510528
+    m_Key: people_DebugDummy_show_normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17682192877359104
+    m_Key: people_DebugDummy_show_attack0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17682532049752064
+    m_Key: people_DebugDummy_show_attack1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4727746301359554584
+  references:
+    version: 2
+    RefIds:
+    - rid: 4727746301359554584
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1723275303567

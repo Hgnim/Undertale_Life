@@ -1,0 +1,15 @@
+.vs
+*/bin
+*/obj
+*/Properties
+*/appsettings*.json
+*.csproj.user
+*/.config
+
+bin
+Library
+Logs
+obj
+Temp
+UserSettings
+.vsconfig
